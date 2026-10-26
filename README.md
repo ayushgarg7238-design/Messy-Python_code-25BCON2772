@@ -112,5 +112,5 @@ This project demonstrates how Python functions, lists, loops, conditions, and ar
 
 ## Repository
 
-GitHub: [Messy-Python_code-25BCON2772](https://github.com/ayushgarg7238-design/Messy-Python_code-25BCON2772)
+GitHub: https://github.com/ayushgarg7238-design/Messy-Python_code-25BCON2772
 
