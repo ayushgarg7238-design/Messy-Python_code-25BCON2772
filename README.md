@@ -28,7 +28,7 @@ This project is a Python program that processes student marks across three subje
 ## Project Structure
 
 ```text
-Messy-Python_code-25BCON1092/
+Messy-Python_code-25BCON2772/
 ├── messy.py
 ├── messy_output.txt
 └── README.md
@@ -73,13 +73,13 @@ Install Python 3 on your computer. No external libraries are required.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HARSH1-rgb/Messy-Python_code-25BCON1092.git
+   git clone https://github.com/ayushgarg7238-design/Messy-Python_code-25BCON2772.git
    ```
 
 2. Open the project directory:
 
    ```bash
-   cd Messy-Python_code-25BCON1092
+   cd Messy-Python_code-25BCON2772
    ```
 
 3. Run the Python script:
@@ -112,5 +112,5 @@ This project demonstrates how Python functions, lists, loops, conditions, and ar
 
 ## Repository
 
-GitHub: [Messy-Python_code-25BCON1092](https://github.com/HARSH1-rgb/Messy-Python_code-25BCON1092)
+GitHub: [Messy-Python_code-25BCON2772](https://github.com/ayushgarg7238-design/Messy-Python_code-25BCON2772)
 
